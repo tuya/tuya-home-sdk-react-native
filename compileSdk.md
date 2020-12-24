@@ -53,7 +53,7 @@ import com.tuya.smart.rnsdk.TuyaReactPackage;
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           ...
-            new TuyaReactPackage()
+            new TuyaReactPackage();
           ...
       );
  }
