@@ -16,7 +16,7 @@ Tuya Smart App SDK provides the interface package for the communication with har
 
 See the demo in [tuyasmart-home-sdk-react-native](https://github.com/TuyaInc/tuyasmart-home-sdk-react-native).
 
-##  Constant File
+## Constant File
 
 There are many constants are requried to fill in before using App SDK.
 
