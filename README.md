@@ -9,7 +9,7 @@
 Tuya Smart App SDK provides the interface package for the communication with hardware and Tuya Cloud to accelerate the application development process, including the following features:
 
 - Hardware functions (network configuration, control, status reporting, regular tasks, groups, firmware upgrades, sharing)
-- Account system (phone number, email registration, login, password reset and other general account functions)
+- Account system (phone number, email registration, login, password reset, and other general account functions)
 - Tuya Cloud HTTP API interface package
 
 ## Examples
@@ -18,7 +18,7 @@ See the demo in [tuyasmart-home-sdk-react-native](https://github.com/TuyaInc/tuy
 
 ## Constant File
 
-There are many constants are requried to fill in before using App SDK.
+Many constants are required to fill in before using App SDK.
 
 ```
 const appKey=""
@@ -31,4 +31,4 @@ const password=""
 
 ```
 
-> **Note:** This project is still in the process of debugging and some of functions are not stable.
+> **Note:** This project is still in the process of debugging and some of the functions are not stable.
