@@ -1,4 +1,4 @@
->**Note**: This repository is inherited from the [previous Tuya GitHub repository](https://github.com/TuyaInc/tuyasmart-home-sdk-react-native), which will be deprecated soon. Please use this repository for Tuya SDK development instead. For steps about how to change the existing remote repository URL, see [Changing a remote's URL](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url)
+>**Note**: This repository is deprecated. Tuya developer team will not maintain it.
 
 # tuyasmart-home-sdk-react-native
 
